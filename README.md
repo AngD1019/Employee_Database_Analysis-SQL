@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# Employee 
 
 ## Overview of Analysis
-The goal of this challenge is to help those in charge of hiring and staffing at Pewlett Hackard to understand in greater detail how upcoming retirements of current employees will impact staffing needs in their business. The term used for a larger number of retirements happening around the same time is "silver tsunami". The specific pieces of information that we are looking for in this challenge to help Pewlett Hackard is to understand how many current employees are retirement-ready, and how many of these retirement-ready employees are qualified to mentor the next generation of Pewlett Hackard employees.
+The goal of this challenge is to help those in charge of hiring and staffing at a large company called Pewlett Hackard to understand in greater detail how upcoming retirements of current employees will impact staffing needs in their business. The term used for a larger number of retirements happening around the same time is "silver tsunami". The specific pieces of information that we are looking for in this challenge to help Pewlett Hackard is to understand how many current employees are retirement-ready, and how many of these retirement-ready employees are qualified to mentor the next generation of Pewlett Hackard employees.
 
 ## Results
 
