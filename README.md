@@ -1,9 +1,11 @@
-# Employee 
+# Employee Database Analysis
 
 ## Overview of Analysis
-The goal of this challenge is to help those in charge of hiring and staffing at a large company called Pewlett Hackard to understand in greater detail how upcoming retirements of current employees will impact staffing needs in their business. The term used for a larger number of retirements happening around the same time is "silver tsunami". The specific pieces of information that we are looking for in this challenge to help Pewlett Hackard is to understand how many current employees are retirement-ready, and how many of these retirement-ready employees are qualified to mentor the next generation of Pewlett Hackard employees.
+The goal of this project is to help those in charge of hiring and staffing at a large company called Pewlett Hackard to understand in greater detail how upcoming retirements of current employees will impact staffing needs in their business. The term used for a larger number of retirements happening around the same time is "silver tsunami". The specific pieces of information that we are looking for in this project to help Pewlett Hackard is to understand how many current employees are retirement-ready, and how many of these retirement-ready employees are qualified to mentor the next generation of Pewlett Hackard employees. I used SQL queries and Entity Relationship Diagrams (ERDs) to organize and analyze this data.
 
 ## Results
+
+### Deliverable 1: The Number of Retiring Employees by Title
 
 -The job titles that will be impacted most by upcoming retirements are Senior Engineer at 25,916 expected retirements, Senior Staff at 24,926, and Engineer at 9,285.
 
@@ -14,6 +16,8 @@ The goal of this challenge is to help those in charge of hiring and staffing at 
 -In total, 72,485 staff are retirement-ready currently. 
 
 <img width="209" alt="retiring_titles" src="https://user-images.githubusercontent.com/114960958/203680785-3ce17faa-b963-48e7-a212-b7f18f3182f7.png">
+
+### Deliverable 2: The Employees Eligible for the Mentorship Program
 
 -1,549 current retirement-ready employees qualify as potential mentors.
 
